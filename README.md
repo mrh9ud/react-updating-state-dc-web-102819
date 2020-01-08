@@ -1,4 +1,4 @@
-# React Updating State
+<!-- # React Updating State
 
 ## Overview
 
@@ -291,7 +291,7 @@ its own state.
 
 A component _cannot_ change its props. Changes in props can only happen
 _externally_, meaning the parent or grandparent component changes the
-values it passing down to its children.
+values it passing down to its children. -->
 
 ## Updating State Based on the Previous State
 
